@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="1080" height="1920" xmlns:e="http://ns.egret.com/eui" class="LobbySkin">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x707070"/>
+</e:Skin>
